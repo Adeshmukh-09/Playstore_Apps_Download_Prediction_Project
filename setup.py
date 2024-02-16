@@ -15,7 +15,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name = "medicalexpenditureproject",
+    name = "playstoreappdownload",
     version = "0.0.1",
     author = "arjundeshmukh",
     author_email="arjundeshmukh757575@gmail.com",
