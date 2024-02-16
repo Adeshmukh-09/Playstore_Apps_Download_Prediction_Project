@@ -6,5 +6,5 @@ dill
 flask
 scikit-learn 
 mlflow
-
+ipykernel
 ##-e .
