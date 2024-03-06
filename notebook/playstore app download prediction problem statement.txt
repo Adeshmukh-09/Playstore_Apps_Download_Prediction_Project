@@ -25,3 +25,9 @@ Release_Version: The version of the application that is currently being served
 OS_Version_Required: The minimum Android OS version required to run the application
 Downloads: The approximated range of downloads for the application
 The participants must classify the range  at which the application falls in , in terms of the number of downloads.
+
+
+
+
+
+
