@@ -29,5 +29,5 @@ The participants must classify the range  at which the application falls in , in
 
 
 
-
+Alternative name of the project for resume:- Predictive App Popularity Analyzer
 
