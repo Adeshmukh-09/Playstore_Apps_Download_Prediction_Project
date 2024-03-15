@@ -7,4 +7,5 @@ flask
 scikit-learn 
 mlflow
 ipykernel
+dvc
 ##-e .

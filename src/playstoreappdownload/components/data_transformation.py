@@ -23,7 +23,7 @@ class DataTransformation:
         try:
             logging.info('Data transformation initiated')
 
-            numerical_columns = ['playstore app ID','Rating','Reviews','Price']
+            numerical_columns = ['playstore_app_ID','Rating','Reviews','Price']
             categorical_columns = ['Category','Content_Rating','OS_Version_Required']
 
             Category_Cat = [

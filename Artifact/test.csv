@@ -1,4 +1,4 @@
-playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Required,Downloads
+playstore_app_ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Required,Downloads
 25374,Health And Fitness,3.6,542,0.0,Everyone,2.3.3 and up,50000
 31357,Game Puzzle,4.52,48,0.0,Everyone,4.0.3 and up,5000
 24766,Education,4.55,29,0.0,Everyone,4.0 and up,1000
@@ -60,7 +60,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 3885,News And Magazines,3.1,735,0.0,Everyone,4.0.3 and up,500000
 10341,Lifestyle,4.89,248,0.0,Everyone,4.3 and up,5000
 1299,Education,4.65,984,0.0,Everyone,4.0.3 and up,100000
-190,Medical,4.4,12,1267.1142,Everyone,4.0.3 and up,1000
+190,Medical,4.4,12,1267.1141999999998,Everyone,4.0.3 and up,1000
 20229,Family,4.2,3762,0.0,Everyone,4.3 and up,1000000
 4734,Finance,4.1,6998,0.0,Everyone,5.0 and up,1000000
 20879,Tools,4.54,9418,0.0,Everyone,4.1 and up,500000

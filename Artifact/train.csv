@@ -1,4 +1,4 @@
-playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Required,Downloads
+playstore_app_ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Required,Downloads
 15755,Game Trivia,4.53,5090,148.4142,Everyone,2.2 and up,10000
 14852,Auto And Vehicles,2.86,284,0.0,Everyone,4.1 and up,10000
 5054,Photography,4.49,6875,0.0,Everyone,4.3 and up,1000000
@@ -1472,7 +1472,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 13245,Family,4.0,1007,0.0,Everyone,4.4 and up,100000
 34989,Travel And Local,4.28,31719,0.0,Everyone,4.0 and up,5000000
 15799,Tools,4.49,4458,0.0,Everyone,4.4 and up,500000
-22559,Personalization,4.35,806,88.7502,Everyone,Varies with device,10000
+22559,Personalization,4.35,806,88.75019999999999,Everyone,Varies with device,10000
 8687,Education,4.93,14,0.0,Everyone,4.0 and up,500
 31614,Books And Reference,4.9,1171,0.0,Everyone,4.0 and up,100000
 23605,Lifestyle,4.79,39,0.0,Everyone,4.0.3 and up,5000
@@ -1612,7 +1612,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 6456,Tools,4.88,97,185.7042,Everyone,2.1 and up,500
 29139,Photography,4.43,16655,0.0,Everyone,4.3 and up,5000000
 2637,Tools,4.4,24265,0.0,Everyone,4.0.3 and up,1000000
-16806,Medical,4.8,12,1490.8542,Everyone,4.1 and up,1000
+16806,Medical,4.8,12,1490.8541999999998,Everyone,4.1 and up,1000
 35989,Game Word,4.51,42686,0.0,Everyone,4.1 and up,1000000
 27311,Music And Audio,4.62,4291,0.0,Teen,4.4 and up,100000
 10936,Game,4.0,42182,0.0,Everyone,4.1 and up,1000000
@@ -1781,7 +1781,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 28242,House And Home,4.29,7,0.0,Everyone,4.0.3 and up,1000
 33484,Game Puzzle,4.51,4570,0.0,Everyone,4.1 and up,100000
 22514,Game Puzzle,4.66,13516,372.1542,Everyone,4.4 and up,100000
-21797,Personalization,4.34,74,88.7502,Everyone,Varies with device,1000
+21797,Personalization,4.34,74,88.75019999999999,Everyone,Varies with device,1000
 23024,Tools,3.81,279,0.0,Everyone,2.2 and up,50000
 16424,Game Casual,4.54,5093,0.0,Everyone,4.4 and up,100000
 1977,Entertainment,4.64,18051,0.0,Teen,4.0 and up,500000
@@ -3309,7 +3309,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 16992,Tools,4.3,3509,0.0,Everyone,5.0 and up,1000000
 11851,Game Card,4.3,9165,0.0,Teen,4.0.3 and up,100000
 32656,Shopping,4.3,44071,0.0,Everyone,4.4 and up,5000000
-10988,Family,4.5,7812,1490.8542,Everyone 10+,4.0 and up,50000
+10988,Family,4.5,7812,1490.8541999999998,Everyone 10+,4.0 and up,50000
 17629,Tools,4.55,53,0.0,Teen,4.0.3 and up,1000
 23986,Business,1.79,134,0.0,Everyone,4.3 and up,10000
 35918,Game Word,4.6,11759,0.0,Everyone,4.2 and up,500000
@@ -3441,13 +3441,13 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 24312,Maps And Navigation,4.52,29,185.7042,Everyone,5.0 and up,1000
 31662,News And Magazines,2.6,820,0.0,Everyone,Varies with device,100000
 24861,Business,3.15,1168,0.0,Everyone,4.1 and up,100000
-11905,Family,3.8,2925,355.7466,Teen,4.1 and up,50000
+11905,Family,3.8,2925,355.74659999999994,Teen,4.1 and up,50000
 8811,Education,4.86,7,0.0,Everyone,4.1 and up,100
 26466,Game Arcade,4.41,151349,0.0,Everyone,4.1 and up,10000000
 16483,Productivity,4.62,22665,0.0,Everyone,7.0 and up,500000
 24287,Game Arcade,4.15,11073,0.0,Everyone,2.2 and up,500000
 32173,Lifestyle,4.37,438,0.0,Mature 17+,4.1 and up,100000
-2641,Game Strategy,4.48,22860,164.076,Everyone,2.3 and up,100000
+2641,Game Strategy,4.48,22860,164.07600000000002,Everyone,2.3 and up,100000
 20311,Dating,4.6,185,0.0,Mature 17+,4.0.3 and up,10000
 3369,Books And Reference,4.42,268,0.0,Everyone,4.0 and up,10000
 25237,Productivity,4.49,1656,0.0,Everyone,4.1 and up,10000
@@ -4447,7 +4447,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 36269,Entertainment,3.19,29431,0.0,Everyone,4.0.3 and up,5000000
 20847,Education,5.0,11,185.7042,Everyone,4.1 and up,500
 26059,Productivity,3.89,65,0.0,Everyone,4.1 and up,10000
-34543,Personalization,4.29,186,88.7502,Everyone,Varies with device,5000
+34543,Personalization,4.29,186,88.75019999999999,Everyone,Varies with device,5000
 30144,Game Action,4.49,317440,0.0,Teen,4.4 and up,10000000
 33992,Education,3.77,396,0.0,Everyone,4.0 and up,10000
 12517,Entertainment,3.62,650,0.0,Everyone,4.4 and up,100000
@@ -4693,7 +4693,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 32092,Game Board,4.85,94800,0.0,Everyone,4.1 and up,5000000
 28076,Sports,3.91,9122,0.0,Everyone 10+,5.0 and up,1000000
 24734,Game Simulation,3.85,14337,0.0,Teen,4.4 and up,1000000
-17113,Finance,4.6,459,1416.2742,Everyone,4.0.3 and up,10000
+17113,Finance,4.6,459,1416.2741999999998,Everyone,4.0.3 and up,10000
 1439,Personalization,3.97,2693,0.0,Everyone,4.3 and up,100000
 20789,Family,3.8,48929,0.0,Everyone,4.0 and up,5000000
 4811,Sports,3.66,133,0.0,Everyone,4.1 and up,10000
@@ -5150,7 +5150,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 20852,Game Role Playing,4.32,86994,0.0,Teen,4.1 and up,1000000
 24214,Finance,4.59,32,0.0,Everyone,4.0 and up,5000
 28158,Game Puzzle,4.61,1522,0.0,Everyone,4.1 and up,100000
-3624,Productivity,2.6,685,1490.8542,Everyone,4.0.3 and up,5000
+3624,Productivity,2.6,685,1490.8541999999998,Everyone,4.0.3 and up,5000
 34679,Tools,4.79,1025,0.0,Everyone,4.1 and up,50000
 24065,Education,4.51,47,0.0,Everyone,4.1 and up,1000
 25909,Photography,4.6,8,0.0,Everyone,2.3 and up,1000
@@ -5386,7 +5386,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 287,Food And Drink,4.65,397,0.0,Everyone,5.0 and up,50000
 29660,Travel And Local,4.1,50,0.0,Everyone,4.4 and up,10000
 22859,Entertainment,4.11,227,0.0,Everyone,4.0.3 and up,10000
-3967,Finance,3.69,29,730.1382,Everyone,4.0 and up,100
+3967,Finance,3.69,29,730.1381999999999,Everyone,4.0 and up,100
 9120,Business,4.3,236,0.0,Everyone,4.0 and up,50000
 15258,Shopping,4.6,18910,0.0,Everyone,5.0 and up,1000000
 18717,Education,3.84,50,0.0,Everyone,4.0 and up,1000
@@ -5995,7 +5995,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 19205,Finance,1.56,32,0.0,Everyone,6.0 and up,1000
 2178,Education,4.55,33,0.0,Everyone,4.4 and up,10000
 585,Books And Reference,4.63,411,0.0,Everyone,4.0.3 and up,100000
-7452,Game Role Playing,4.51,5378,656.304,Everyone,4.1 and up,100000
+7452,Game Role Playing,4.51,5378,656.3040000000001,Everyone,4.1 and up,100000
 11498,Personalization,4.69,6762,745.0542,Everyone,4.1 and up,100000
 1781,Books And Reference,4.56,14805,0.0,Everyone,4.0 and up,1000000
 34888,Health And Fitness,4.35,1442,0.0,Everyone,Varies with device,100000
@@ -6724,7 +6724,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 24790,Personalization,4.44,1383,0.0,Everyone,4.4 and up,100000
 35580,Social,4.2,204,73.8342,Everyone,4.1 and up,5000
 27,Game Puzzle,4.38,2451,0.0,Everyone,4.0.3 and up,50000
-17110,Lifestyle,4.2,134,2833.2942,Everyone,4.0.3 and up,1000
+17110,Lifestyle,4.2,134,2833.2942000000003,Everyone,4.0.3 and up,1000
 8683,Education,4.33,12,0.0,Everyone,4.0 and up,500
 6102,Finance,2.46,327,0.0,Everyone,4.4 and up,100000
 1686,Health And Fitness,4.1,222,0.0,Everyone,2.2 and up,10000
@@ -6758,7 +6758,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 8318,Art And Design,4.48,91,0.0,Everyone,Varies with device,10000
 21249,Parenting,4.24,17,73.8342,Everyone,4.0 and up,100
 19679,Education,4.65,4542,0.0,Everyone,4.1 and up,500000
-2077,Productivity,4.65,1326,742.071,Teen,2.2 and up,10000
+2077,Productivity,4.65,1326,742.0709999999999,Teen,2.2 and up,10000
 34446,Food And Drink,3.61,41,0.0,Everyone,4.1 and up,1000
 21361,Game Educational,4.51,24388,0.0,Everyone,4.0.3 and up,5000000
 35318,Travel And Local,4.1,7185,0.0,Everyone,4.0.3 and up,100000
@@ -7867,7 +7867,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 25018,Business,4.55,868,0.0,Everyone,4.0.3 and up,50000
 16560,Travel And Local,4.33,17372,0.0,Everyone,5.0 and up,1000000
 30135,Game,4.6,7671249,0.0,Mature 17+,Varies with device,100000000
-4021,Personalization,4.28,155,88.7502,Everyone,Varies with device,1000
+4021,Personalization,4.28,155,88.75019999999999,Everyone,Varies with device,1000
 22377,Game Action,4.09,107271,0.0,Teen,4.0.3 and up,10000000
 14694,Game Arcade,3.74,27733,0.0,Everyone,Varies with device,5000000
 30687,Food And Drink,3.87,4460,0.0,Everyone,4.1 and up,500000
@@ -8942,7 +8942,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 32751,Game Puzzle,4.78,241024,73.8342,Everyone,2.3 and up,1000000
 21642,Game,4.0,267,148.4142,Everyone,4.0 and up,10000
 3861,Entertainment,3.94,309,0.0,Everyone,Varies with device,10000
-11117,Personalization,4.39,1197,88.7502,Everyone,Varies with device,10000
+11117,Personalization,4.39,1197,88.75019999999999,Everyone,Varies with device,10000
 11727,Finance,4.6,1992,0.0,Everyone,5.0 and up,50000
 7617,Books And Reference,4.7,949,0.0,Everyone,2.3 and up,100000
 6895,Productivity,3.7,7,0.0,Teen,5.0 and up,1000
@@ -10349,7 +10349,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 18312,Business,4.1,294,0.0,Everyone,4.0 and up,10000
 4311,Books And Reference,3.5,156,0.0,Everyone,2.2 and up,500000
 36107,Game Trivia,4.54,16943,0.0,Everyone,4.0.3 and up,1000000
-2482,Medical,3.0,2,5592.7542,Everyone,4.1 and up,10
+2482,Medical,3.0,2,5592.754199999999,Everyone,4.1 and up,10
 22654,Video Players,3.9,54815,0.0,Everyone,Varies with device,100000000
 6973,Tools,4.8,36557,0.0,Everyone,5.0 and up,1000000
 24378,Travel And Local,3.0,331,0.0,Everyone,4.3 and up,50000
@@ -11494,7 +11494,7 @@ playstore app ID,Category,Rating,Reviews,Price,Content_Rating,OS_Version_Require
 28119,Game Action,4.4,67718,0.0,Everyone 10+,4.4 and up,1000000
 1474,Education,4.44,1088,0.0,Everyone,2.3.3 and up,500000
 9036,Personalization,5.0,1,0.0,Everyone,5.0 and up,100
-9014,Personalization,4.5,111,88.7502,Everyone,Varies with device,1000
+9014,Personalization,4.5,111,88.75019999999999,Everyone,Varies with device,1000
 18837,Game Casual,3.36,28,0.0,Everyone,4.1 and up,10000
 21099,Game Puzzle,4.41,34585,0.0,Everyone,4.1 and up,1000000
 21821,Game Word,4.66,31982,0.0,Everyone,3.0 and up,1000000

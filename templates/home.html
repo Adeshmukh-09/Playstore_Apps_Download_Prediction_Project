@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <div class="login">
+      <h1>Playstore Apps Download indicator</h1>
+
+      <form action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1>
+          <legend>Playstore Apps Download Prediction</legend>
+        </h1>
+        <div class="mb-3">
+          <label class="form-label">Playstore_app_ID</label>
+          <input
+            class="form-control"
+            type="number"
+            name="playstore_app_ID"
+            placeholder="Enter playstore app ID"
+            min="0"
+            max="100000"
+          />
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Category</label>
+          <select
+            class="form-control"
+            name="Category"
+            placeholder="Enter the Category"
+            required
+          >
+            <option class="placeholder" selected disabled value="">
+              Select Category
+            </option>
+            <option value="Education">Education</option>
+            <option value="Tools">Tools</option>
+            <option value="Entertainment">Entertainment</option>
+            <option value="Books And Reference">Books And Reference</option>
+            <option value="Family">Family</option>
+            <option value="Finance">Finance</option>
+            <option value="Lifestyle">Lifestyle</option>
+            <option value="Productivity">Productivity</option>
+            <option value="Music And Audio">Music And Audio</option>
+            <option value="Business">Business</option>
+            <option value="Personalization">Personalization</option>
+            <option value="Health And Fitness">Health And Fitness</option>
+            <option value="Game">Game</option>
+            <option value="News And Magazines">News And Magazines</option>
+            <option value="Photography">Photography</option>
+            <option value="Game Puzzle">Game Puzzle</option>
+            <option value="Sports">Sports</option>
+            <option value="Shopping">Shopping</option>
+            <option value="Travel And Local">Travel And Local</option>
+            <option value="Communication">Communication</option>
+            <option value="Medical">Medical</option>
+            <option value="Game Casual">Game Casual</option>
+            <option value="Game Arcade">Game Arcade</option>
+            <option value="Social">Social</option>
+            <option value="Game Action">Game Action</option>
+            <option value="Food And Drink">Food And Drink</option>
+            <option value="Video Players">Video Players</option>
+            <option value="Game Card">Game Card</option>
+            <option value="Game Simulation">Game Simulation</option>
+            <option value="Game Educational">Game Educational</option>
+            <option value="Maps And Navigation">Maps And Navigation</option>
+            <option value="Game Role Playing">Game Role Playing</option>
+            <option value="Game Strategy">Game Strategy</option>
+            <option value="Game Adventure">Game Adventure</option>
+            <option value="Auto And Vehicles">Auto And Vehicles</option>
+            <option value="Game Word">Game Word</option>
+            <option value="Game Sports">Game Sports</option>
+            <option value="Game Racing">Game Racing</option>
+            <option value="Dating">Dating</option>
+            <option value="Weather">Weather</option>
+            <option value="Game Board">Game Board</option>
+            <option value="Art And Design">Art And Design</option>
+            <option value="House And Home">House And Home</option>
+            <option value="Game Trivia">Game Trivia</option>
+            <option value="Game Casino">Game Casino</option>
+            <option value="Parenting">Parenting</option>
+            <option value="Events">Events</option>
+            <option value="Beauty">Beauty</option>
+            <option value="Libraries And Demo">Libraries And Demo</option>
+            <option value="Comics">Comics</option>
+            <option value="Game Music">Game Music</option>
+          </select>
+          <div class="mb-3">
+            <label class="form-label">Rating</label>
+            <input
+              class="form-control"
+              type="number"
+              name="Rating"
+              placeholder="Enter Rating of the app"
+              step="0.01"
+              min="0"
+              max="10"
+            />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Reviews</label>
+            <input
+              class="form-control"
+              type="number"
+              name="Reviews"
+              placeholder="Enter Reviews of the app"
+              min="0"
+              max="8000000"
+            />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Price</label>
+            <input
+              class="form-control"
+              type="number"
+              name="Price"
+              placeholder="Enter Price of the app"
+              step="0.01"
+              min="0"
+              max="5000"
+            />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Content_Rating</label>
+            <select
+              class="form-control"
+              name="Content_Rating"
+              placeholder="Enter Content_Rating of the app"
+              required
+            >
+              <option class="placeholder" selected disabled value="">
+                Select Content_Rating
+              </option>
+              <option value="Everyone">Everyone</option>
+              <option value="Teen">Teen</option>
+              <option value="Everyone 10+">Everyone 10+</option>
+              <option value="Mature 17+">Mature 17+</option>
+              <option value="Adults only 18+">Adults only 18+</option>
+              <option value="Unrated">Unrated</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">OS_Version_Required</label>
+            <select
+              class="form-control"
+              name="OS_Version_Required"
+              placeholder="Enter OS_Version_Required for the app"
+              required
+            >
+              <option class="placeholder" selected disabled value="">
+                Select OS_Version_Required
+              </option>
+              <option value="4.1 and up">4.1 and up</option>
+              <option value="4.0.3 and up">4.0.3 and up</option>
+              <option value="4.0 and up">4.0 and up</option>
+              <option value="4.4 and up">4.4 and up</option>
+              <option value="Varies with device">Varies with device</option>
+              <option value="5.0 and up">5.0 and up</option>
+              <option value="2.3 and up">2.3 and up</option>
+              <option value="4.2 and up">4.2 and up</option>
+              <option value="4.3 and up">4.3 and up</option>
+              <option value="2.3.3 and up">2.3.3 and up</option>
+              <option value="2.2 and up">2.2 and up</option>
+              <option value="3.0 and up">3.0 and up</option>
+              <option value="6.0 and up">6.0 and up</option>
+              <option value="2.1 and up">2.1 and up</option>
+              <option value="5.1 and up">5.1 and up</option>
+              <option value="1.6 and up">1.6 and up</option>
+              <option value="7.0 and up">7.0 and up</option>
+              <option value="1.5 and up">1.5 and up</option>
+              <option value="3.2 and up">3.2 and up</option>
+              <option value="2.0 and up">2.0 and up</option>
+              <option value="4.4w and up">4.4w and up</option>
+              <option value="3.1 and up">3.1 and up</option>
+              <option value="8.0 and up">8.0 and up</option>
+              <option value="2.0.1 and up">2.0.1 and up</option>
+              <option value="7.1 and up">7.1 and up</option>
+              <option value="1.1 and up">1.1 and up</option>
+              <option value="1.0 and up">1.0 and up</option>
+            </select>
+          </div>
+        </div>
+        <div class="mb-3">
+          <input
+            class="btn btn-primary"
+            type="submit"
+            value="The number of predicted downloads of the app would be"
+            required
+          />
+        </div>
+      </form>
+      <h2>THE number of predicted downloads of the app would be: {{final_result}}</h2>
+    </div>
+  </body>
+</html>

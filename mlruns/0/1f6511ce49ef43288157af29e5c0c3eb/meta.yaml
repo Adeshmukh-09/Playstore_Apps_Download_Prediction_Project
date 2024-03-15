@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Roadmap%20and%20Practice/Machine%20Learning%20Projects/Playstore%20Apps%20Download%20Prediciton/mlruns/0/1f6511ce49ef43288157af29e5c0c3eb/artifacts
+end_time: 1710334685011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f6511ce49ef43288157af29e5c0c3eb
+run_name: casual-quail-377
+run_uuid: 1f6511ce49ef43288157af29e5c0c3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710334669283
+status: 3
+tags: []
+user_id: Arjun
